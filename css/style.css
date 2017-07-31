@@ -3162,11 +3162,11 @@ section#tips-part {
 
   .button{
     padding:8px 12px;
-    background:#0A5175;
+    background:#2A88CE;
     display: block;
     width:120px;
     margin:10px 0 0px 0;
-    border-radius:3px;
+    border-radius:3px;#2A88CE
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -3190,7 +3190,7 @@ section#tips-part {
     height: auto;
     padding:15px;
     color:#fff;
-    background:rgba(44, 111, 119, 1);
+    background:#2a88ce;
     border:none;
     border-radius:3px;
     outline: none;
@@ -3204,7 +3204,7 @@ section#tips-part {
   }
 
   .form-btn:hover{
-    background:#111;
+    background:#606669;
     color: white;
     border:none;
   }
